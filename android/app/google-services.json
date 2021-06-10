@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "949422649978",
+    "project_id": "forever-alumni",
+    "storage_bucket": "forever-alumni.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949422649978:android:46f383da00481c192781c3",
+        "android_client_info": {
+          "package_name": "com.hassan.forever_alumni"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "949422649978-uv9pncv9nnbnbqv3o1msnmfif5p9n9mo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hassan.forever_alumni",
+            "certificate_hash": "a38e75bc78f57ab76e91317120445129ba6d45ca"
+          }
+        },
+        {
+          "client_id": "949422649978-l5vqjeermtuu19eueq2cn86a09eqv0gt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7wJu1C9O_LWHa2yY9cGZLk7RtrgGVfuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "949422649978-l5vqjeermtuu19eueq2cn86a09eqv0gt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
